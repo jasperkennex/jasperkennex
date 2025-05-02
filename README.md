@@ -1,6 +1,8 @@
 ## Hello there 👋
 
-My name is Bao Duong — you can also call me Jasper Kennex.
+My name is Dương Thái Bảo — you can also call me Jasper Kennex.
+
+This is my secondary account, which I use to hold my username “jasperkennex”.
 
 I'm a Software Engineer based in Vietnam 🇻🇳. I’m passionate about sharing knowledge and making meaningful contributions to the tech community. While my main area of expertise is Android development, I enjoy designing Web UI/UX out of personal interest.
 
